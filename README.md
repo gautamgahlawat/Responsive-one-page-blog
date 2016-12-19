@@ -3,7 +3,7 @@ A completely responsive simple single page website/blog good for sharing a story
 
 A single web page site. Created as part of Udacity's FEND nanodegree.
 
-# Features:
+## Features:
 
 * Flexboard Layout
 * Responsive Images
